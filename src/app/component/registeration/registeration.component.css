@@ -1,0 +1,43 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  mat-form-field {
+    width: 100%;
+  }
+  
+  .example-radio-group {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    align-items: flex-start;
+  }
+  
+  .example-radio-button {
+    margin: 5px;
+  }
+  .registration-form{
+    border: 1px solid gray;
+    padding: 30px;
+    margin-top: -43%;
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    width: 70%;
+    border-radius: 4px;
+  }
+ button{
+  width: 15%;
+  margin-left: 5%;
+  margin-top: 6%;
+ }
+ .buttons{
+  display: flex;
+  flex-direction: row;
+  margin-left: -5%;
+ }
+ .white-text {
+  color: white !important;
+}
+.mdc-list-item:hover .mdc-list-item__primary-text {
+  color: white
+}

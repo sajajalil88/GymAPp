@@ -1,0 +1,30 @@
+{
+  "enquiry": [
+    {
+      "firstName": "jana",
+      "lastName": "jalil",
+      "email": "jana77@gmail.com",
+      "mobile": "03456787",
+      "weight": 48,
+      "height": 155,
+      "bmi": 0.0019979188345473466,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "id": 2
+    },
+    {
+      "firstName": "sami",
+      "lastName": "haidar",
+      "email": "samihaidar2018@gmail.com",
+      "mobile": "",
+      "weight": 70,
+      "height": 1.78,
+      "bmi": 22.093170054286073,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "id": 3
+    }
+  ]
+}

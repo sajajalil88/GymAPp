@@ -1,0 +1,16 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .container-fluid{
+    margin-top:50%;
+  }
+  /* Add this CSS to your component's CSS/SCSS file */
+mat-list-item {
+  margin-bottom: 20px; 
+ 
+}
+/* Add this CSS to your component's CSS/SCSS file */
+.custom-list-item {
+  color: white; /* Change text color to white */
+  font-weight: bold; /* Make text bold */
+}
